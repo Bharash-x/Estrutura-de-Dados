@@ -1,4 +1,4 @@
-package main
+package Atividade_01_N2
 
 import "fmt"
 
